@@ -1,0 +1,12 @@
+METRICAS - REGRESSAO LINEAR OLS (modelo principal)
+Erro medio: -0,0506
+Desvio padrao do erro: 0,6807
+MAE: 0,5441
+RMSE: 0,6780
+R2: 0,8350
+Intervalo de erro (IC 95%): [-0,2074, 0,1063]
+
+METRICAS - REGRESSAO LINEAR GD (comparacao)
+MAE: 0,5441
+RMSE: 0,6780
+R2: 0,8350
